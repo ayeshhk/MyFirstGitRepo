@@ -1,4 +1,6 @@
-Naruto Uzumaki
+## Naruto Uzumaki
+
+![picture](https://raw.githubusercontent.com/ayeshhk/MyFirstGitRepo/refs/heads/main/NarutoUzumaki/images/download.jfif)
 
 Naruto Uzumaki is one of the most recognizable and influential characters in anime and manga. As the main protagonist of *Naruto*, created by Masashi Kishimoto, Naruto represents perseverance, ambition, and the desire for acceptance. His story is not simply about becoming a powerful ninja, but about overcoming loneliness, rejection, and hardship in order to earn respect and build meaningful relationships. Through his journey, Naruto becomes a symbol of determination and personal growth, making him one of the most memorable heroes in modern fiction.
 
